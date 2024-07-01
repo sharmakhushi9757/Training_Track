@@ -1,3 +1,7 @@
+/*
+ * Define a structure to hold product inventory information, including the product ID and quantity. Write a program that accepts multiple product records (product_ID and quantity) and prints the total quantity for each product in decreasing order of total quantity. In case there are multiple records for the same product, the program should sum up the quantities.
+ */
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>

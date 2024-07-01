@@ -1,3 +1,6 @@
+/*
+ * Define a structure to hold student information, including the student ID and a list of scores. Write a program that accepts multiple student records (student_ID and score) and prints the student ID and their highest average score. In case there are multiple records for the same student, the program should calculate the average of their scores. The program should print the student ID with the highest average score.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
